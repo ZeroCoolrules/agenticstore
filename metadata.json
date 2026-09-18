@@ -1,0 +1,8 @@
+{
+  "name": "Remix Cupids Adult Toys Storefront",
+  "description": "An interactive boutique storefront for intimate wellness products featuring narrative-driven storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
